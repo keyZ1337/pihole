@@ -4,6 +4,14 @@ www.bild.de
 cdn1.smartadserver.com
 ec-ns.sascdn.com
 acdn.adnxs.com
+a16-65.akam.net
+a1-130.akam.net
+a7-67.akam.net
+a14-64.akam.net
+ns11.netuse.de
+a6-66.akam.net
+a11-67.akam.net
+www.bild.de.edgekey.net
 
 #maleware
 ipconfig.co
