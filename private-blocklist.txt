@@ -1,13 +1,12 @@
-#test
+#bild.de
+bild.de
+www.bild.de
 cdn1.smartadserver.com
 ec-ns.sascdn.com
 acdn.adnxs.com
 
 #maleware
 ipconfig.co
-www.ipconfig.co
-roxy.ns.cloudflare.com
-adam.ns.cloudflare.com
 
 #ads
 adsdk.yandex.ru
