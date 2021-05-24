@@ -1,5 +1,6 @@
 #test
 bild.de
+www.bild.de
 a14-64.akam.net
 a6-66.akam.net
 a11-67.akam.net
@@ -10,6 +11,7 @@ a16-65.akam.net
 
 #maleware
 ipconfig.co
+www.ipconfig.co
 roxy.ns.cloudflare.com
 adam.ns.cloudflare.com
 
