@@ -1,5 +1,10 @@
+#test
 bild.de
+
+#maleware
 ipconfig.co
+
+#ads
 adsdk.yandex.ru
 analytics-api.samsunghealthcn.com
 analytics.facebook.com
