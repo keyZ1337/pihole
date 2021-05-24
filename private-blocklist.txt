@@ -7,8 +7,6 @@ acdn.adnxs.com
 
 #maleware
 ipconfig.co
-roxy.ns.cloudflare.com
-adam.ns.cloudflare.com
 
 #ads
 adsdk.yandex.ru
