@@ -1,5 +1,4 @@
 #Gmail
-#Gmail
 mail.google.com
 smtp.gmail.com
 imap.gmail.com
