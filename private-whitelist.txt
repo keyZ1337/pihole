@@ -223,7 +223,6 @@ thepiratebay.org
 gdlp01.c-wss.com #MG3550 Canon Driver Download
 www.cymatics.fm
 cymatics.fm
-www.webcamrips.com
 
 #Windows Updates
 browser.pipe.aria.microsoft.com
@@ -254,5 +253,3 @@ vivo.sx
 vidoza.net
 bs.to
 s.to
-
-
