@@ -201,10 +201,7 @@ www.ow.ly
 www.adf.ly
 www.j.mp
 www.tinyurl.com
-
-#ads
 adfoc.us
-adf.ly
 
 #Youtube
 youtube.com
