@@ -61,6 +61,10 @@ www.dropbox.com
 www.dl.dropbox.com
 www.ns1.dropbox.com
 www.ns2.dropbox.com
+dropbox.com
+dl.dropbox.com
+ns1.dropbox.com
+ns2.dropbox.com
 
 #Google
 google.com
@@ -75,10 +79,6 @@ clients5.google.com
 clients6.google.com
 myaccount.google.com
 docs.google.com
-dropbox.com
-dl.dropbox.com
-ns1.dropbox.com
-ns2.dropbox.com
 goo.gl
 www.google.com
 www.accounts.google.com
