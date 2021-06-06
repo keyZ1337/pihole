@@ -56,6 +56,12 @@ www.raw.githubusercontent.com
 www.status.github.com
 www.codeload.github.com
 
+#Dropbpx
+www.dropbox.com
+www.dl.dropbox.com
+www.ns1.dropbox.com
+www.ns2.dropbox.com
+
 #Google
 google.com
 accounts.google.com
@@ -86,10 +92,6 @@ www.clients5.google.com
 www.clients6.google.com
 www.myaccount.google.com
 www.docs.google.com
-www.dropbox.com
-www.dl.dropbox.com
-www.ns1.dropbox.com
-www.ns2.dropbox.com
 www.goo.gl
 
 #Images
