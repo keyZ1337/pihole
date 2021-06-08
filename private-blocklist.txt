@@ -1,3 +1,6 @@
+#test
+(\.|^)bild\.de$
+
 #ads
 cdn1.smartadserver.com
 ec-ns.sascdn.com
@@ -9,7 +12,18 @@ a14-64.akam.net
 ns11.netuse.de
 a6-66.akam.net
 a11-67.akam.net
-www.bild.de.edgekey.net
+
+#gambling
+(\.casino$|\.bet$|\.poker$)
 
 #maleware/tracking
-ipconfig.co
+(\.|^)ipconfig\.co$
+
+#Sicherheitslücken
+duckdns\.org$
+.*(xn--).*
+sendgrid\.net$
+^wpad\.
+
+#Youtube
+r[0-9-]-sn-[a-z0-9]-[0-9a-z]{4}.googlevideo.com
