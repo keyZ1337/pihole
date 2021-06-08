@@ -1,6 +1,3 @@
-#test
-(\.|^)bild\.de$
-
 #ads
 cdn1.smartadserver.com
 ec-ns.sascdn.com
@@ -12,6 +9,12 @@ a14-64.akam.net
 ns11.netuse.de
 a6-66.akam.net
 a11-67.akam.net
+
+
+#regex
+
+#test
+(\.|^)bild\.de$
 
 #gambling
 (\.casino$|\.bet$|\.poker$)
