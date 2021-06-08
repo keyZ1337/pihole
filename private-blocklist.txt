@@ -1,8 +1,3 @@
-youtube.de
-youtube.com
-www.youtube.de
-www.youtube.com
-
 #ads
 cdn1.smartadserver.com
 ec-ns.sascdn.com
