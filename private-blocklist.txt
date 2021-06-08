@@ -1,3 +1,7 @@
+#bild.de
+bild.de
+www.bild.de
+
 #ads
 cdn1.smartadserver.com
 ec-ns.sascdn.com
