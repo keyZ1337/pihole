@@ -20,7 +20,15 @@ a11-67.akam.net
 (\.casino$|\.bet$|\.poker$)
 
 #maleware/tracking
+(\.|^)s3\.amazonaws\.com$
+(\.|^)thematureporn\.net$
+(\.|^)videos\.apornstories\.com$
+(\.|^)zooxhamster\.com$
+(\.|^)prepenseprepensecubicoperating\.com$
+(\.|^)washedinmate\.com$
+(\.|^)tiedme\.com$
 (\.|^)ipconfig\.co$
+(\.|^)sqidsply\.com$
 
 #Sicherheitslücken
 duckdns\.org$
