@@ -1,2 +1,3 @@
 #ads/tracking
-https://metrics.mzstatic.com
+metrics.mzstatic.com
+googleadservices.com
